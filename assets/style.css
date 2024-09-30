@@ -1,0 +1,12 @@
+/* General Style Total page */
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+html{
+  scroll-behavior: smooth;
+}
+
